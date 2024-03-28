@@ -9,4 +9,5 @@ git clone https://github.com/ABIODUNTHEKING/token-authenication-system.git
 npm install
 
 **Run Application**
+---
 npm run dev
